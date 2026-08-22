@@ -29,7 +29,8 @@ A modern goals and tasks manager to plan, prioritize, and track your personal ob
 
 Note: GitHub’s language stats on the repo overview may show 100% JavaScript. This is a quirk of GitHub’s language detector (Linguist), which excludes files with very long lines (like the base64 icon embedded in index.html) from its count — not an actual change in the codebase.
 
-🔗 🗺️ Roadmap (Upcoming Features)
+🔗 🗺️ Roadmap (Upcoming features)
+Features)
 
 	•	☐ Unified “Today” view combining goals and tasks in one daily snapshot.
 	•	☐ Activity heatmap across all goals (year view).
@@ -49,5 +50,4 @@ Proof that creativity + the right AI tools can build massive things! 💡 —
 If you like this Goal Tracker, check out my other live project:
 
 | App | | 🌙 Habit Tracker | An intuitive and lightweight app to track your daily habits and sleep quality right from your phone. | 🟢 Live | Try App
-
-👉 [View my full GitHub Profile]
+👉 [View my full GitHub Profile](https://github.com/renzosantelli11-ship-it)
